@@ -2,7 +2,7 @@ title : 'Java I: The Java Menace'
 
 # Table of Contents
 plan:
-  - title: Welcome
+  - title: Introduction
     statement: markdowns/welcome.md
   - title: Activity
     statement: markdowns/activity.md
