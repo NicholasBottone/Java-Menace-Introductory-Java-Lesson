@@ -22,7 +22,7 @@ public class Store {
             throw new PizzaException("Order object not provided upon placing order!");
         }
 
-        if (order.getNumberofItems() < 2) {
+        if (order.getNumberOfItems() < 2) {
             throw new PizzaException("There aren't enough items in your order.  Add at least 2 items to your order.");
         }
 
@@ -31,7 +31,7 @@ public class Store {
         }
 
         System.out.println("TECHIO> message --channel \"OUTPUT\" Successfully placed order for " + order.getCustomer().getName() + " with card ending in " + creditCard.getLastDigits() + ".");
-        System.out.println("TECHIO> message --channel \"OUTPUT\" " + order.getNumberofItems() + " item(s) will be delieved to " + order.getCustomer().getAddress() + " soon.");
+        System.out.println("TECHIO> message --channel \"OUTPUT\" " + order.getNumberOfItems() + " item(s) will be delieved to " + order.getCustomer().getAddress() + " soon.");
 
     }
 
