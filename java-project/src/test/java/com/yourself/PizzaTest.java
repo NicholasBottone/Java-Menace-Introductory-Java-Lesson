@@ -61,8 +61,6 @@ public class PizzaTest {
 		}
 		
 		success(true);
-		msg("My personal Yoda, you are. 🙏", "Congrats, you did it! ");
-		msg("My personal Yoda, you are. 🙏", "");
 		msg("My personal Yoda, you are. 🙏", "__.-._");
 		msg("My personal Yoda, you are. 🙏", "'-._\\7'");
 		msg("My personal Yoda, you are. 🙏", " /'.-c");
