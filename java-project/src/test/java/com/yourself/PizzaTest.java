@@ -4,7 +4,6 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-import org.junit.Assert;
 import org.junit.Test;
 
 public class PizzaTest {
