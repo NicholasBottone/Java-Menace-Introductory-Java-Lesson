@@ -9,9 +9,9 @@ public class PizzaSolutionCode {
 
         Customer greg = new Customer("Greg", "123 Sesame Street", "thegongoliers@gmail.com");
 
-        Store nearestStore = StoreLocator.findClosestStoreToCustomer(customer);
+        Store nearestStore = StoreLocator.findClosestStoreToCustomer(greg);
 
-        Order order = new Order(customer, store);
+        Order order = new Order(greg, nearestStore);
         order.addItem("LARGE CHEESE PIZZA");
         order.addItem("SMALL SODA");
 
