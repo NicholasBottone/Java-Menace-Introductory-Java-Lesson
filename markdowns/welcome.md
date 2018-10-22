@@ -14,4 +14,4 @@ In this activity, we'll go over variables, classes, objects, methods, libraries,
  * An open mind!
      * No prior programming knowledge is required for this activity! It truly is designed for beginners.
 
-![Star Wars-themed poster that reads The Java Menace](./raw/master/cover.png "The Java Menace")
+![Star Wars-themed poster that reads The Java Menace](https://raw.githubusercontent.com/NicholasBottone/Java-Menace-Introductory-Java-Lesson/master/cover.png "The Java Menace")
