@@ -1,12 +1,17 @@
 # Welcome!
-
 In this playground activity, we will be writing code that orders pizza for us.
-Before we begin the actual coding, let's quickly summarize the four things that we will need our program to be able to do:
-    Know the delivery address
-    Know the nearest pizza place
-    Give the pizza place an order
-    Give the pizza place some $$$
+We'll be using a library to place an pizza order using a fictious API based on a [real Domino's API](https://github.com/gamagori/pizzapi).
+This playground activity was heavily inspired by [Jarvis Johnson on YouTube](https://youtu.be/Nxu6GlDleqA).
 
-# Hands-on Demo
+# What's the point?
+This playground is designed to be an introduction to programming to those with little or no prior experience.  This playground uses the real Java programming language, not block code or an over-simplified language.  This is meant to allow those interested in programming jump right in without masking or hiding what real programming is.  In the process of writing a real Java program, real-world programming vocabulary will be dropped along the way.
 
-@[Gongoliers Pizza]({"stubs": ["src/main/java/com/yourself/Pizza.java"], "command": "com.yourself.PizzaTest#test"})
+# What will I learn?
+In this activity, we'll go over variables, classes, objects, methods, libraries, parameters, and the rudimentary concept of procedural programming.  If these terms sound intimidating or like gibberish right now, don't get concerned yet.  You might be surprised just how easy coding really is.
+
+# Pre-requisites
+ * A healthy curiosity
+ * An open mind!
+     * No prior programming knowledge is required for this activity! It truly is designed for beginners.
+
+![Star Wars-themed poster that reads The Java Menace](./raw/master/cover.png "The Java Menace")
