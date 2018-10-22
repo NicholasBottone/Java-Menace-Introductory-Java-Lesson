@@ -5,18 +5,14 @@ public class Store {
     private String storeName;
 
     public Store(String storeName) {
-
         this.storeName = storeName;
-
     }
 
     public String getStoreName() {
-
         return storeName;
-
     }
 
-    public void placeOrder(Order order, CreditCard creditCard) {
+    public void placeOrder(Order order, CreditCard creditCard) throws PizzaException {
 
         if (order == null) {
             throw new PizzaException("Order object not provided upon placing order!");

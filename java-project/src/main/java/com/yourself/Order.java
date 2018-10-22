@@ -6,7 +6,7 @@ public class Order {
     private Store store;
     private int numberOfItems = 0;
 
-    public Order(Customer customer, Store store) {
+    public Order(Customer customer, Store store) throws PizzaException {
 
         this.customer = customer;
         this.store = store;

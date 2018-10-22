@@ -6,7 +6,7 @@ public class CreditCard {
     private String expiration;
     private String cvv;
 
-    public CreditCard(String cardNumber, String expiration, String cvv) {
+    public CreditCard(String cardNumber, String expiration, String cvv) throws PizzaException {
 
         try {
             Long.parseLong(cardNumber);
@@ -40,6 +40,14 @@ public class CreditCard {
 
     public String getLastDigits() {
         return cardNumber.substring(cardNumber.length()-4);
+    }
+
+    public String getExpiration() {
+        return expiration;
+    }
+
+    public String getCvv() {
+        return cvv;
     }
 
 }
