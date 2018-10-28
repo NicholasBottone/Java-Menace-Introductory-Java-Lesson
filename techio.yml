@@ -6,6 +6,8 @@ plan:
     statement: markdowns/welcome.md
   - title: 'Tutorial Introduction'
     statement: markdowns/introduction.md
+  - title: Tutorial
+    statement: markdowns/tutorial.md
   - title: Activity
     statement: markdowns/activity.md
 
