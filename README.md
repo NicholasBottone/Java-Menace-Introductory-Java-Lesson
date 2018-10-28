@@ -4,6 +4,7 @@
 This is a "playground activity" powered by Tech.io.  In this interactive coding activity, participants write code that orders pizza for them.
 We'll be using a library to place an pizza order using a fictious API based on a [real Domino's API](https://github.com/gamagori/pizzapi).
 This playground activity was heavily inspired by [Jarvis Johnson on YouTube](https://youtu.be/Nxu6GlDleqA).
+Developed by Nicholas Bottone for FRC 5112 The Gongoliers in October 2018.
 
 ![Star Wars-themed poster that reads The Java Menace](https://raw.githubusercontent.com/NicholasBottone/Java-Menace-Introductory-Java-Lesson/master/cover.png "The Java Menace")
 
