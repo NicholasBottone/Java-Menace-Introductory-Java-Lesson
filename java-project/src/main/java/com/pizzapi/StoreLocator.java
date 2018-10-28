@@ -8,7 +8,7 @@ public class StoreLocator {
             throw new PizzaException("Customer object not provided to StoreLocator.");
         }
 
-        return new Store("De Petrillo's Pizza & Bakery");
+        return new Store("Gongoliers Pizza & Bakery");
 
     }
 
