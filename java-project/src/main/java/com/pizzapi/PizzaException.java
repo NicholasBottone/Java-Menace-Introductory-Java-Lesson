@@ -1,4 +1,4 @@
-package com.yourself;
+package com.pizzapi;
 
 public class PizzaException extends Exception {
     private static final long serialVersionUID = 123;

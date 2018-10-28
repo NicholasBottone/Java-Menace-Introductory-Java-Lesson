@@ -1,4 +1,4 @@
-package com.yourself;
+package com.pizzapi;
 
 public class Order {
 

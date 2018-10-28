@@ -6,6 +6,8 @@ import java.util.Scanner;
 
 import org.junit.Test;
 
+import com.pizzapi.*;
+
 public class PizzaTest {
 
 	@Test
