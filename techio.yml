@@ -1,5 +1,6 @@
 title : 'Java I: The Java Menace'
 
+
 # Table of Contents
 plan:
   - title: Welcome
@@ -10,6 +11,10 @@ plan:
     statement: markdowns/tutorial.md
   - title: Activity
     statement: markdowns/activity.md
+  - title: Review
+    statement: markdowns/review.md
+  - title: Conclusion
+    statement: markdowns/conclusion.md
 
 
 # Programming Project Settings

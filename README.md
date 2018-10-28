@@ -1,10 +1,10 @@
-*This playground is still a work in progress: a link will be provided to the Tech.io playground upon completion!
+To use this playground on Tech.io, use the playground link at the top of the main project page next to the topic.
 
 # The Java Menace: A Programming Tutorial About Pizza
 This is a "playground activity" powered by Tech.io.  In this interactive coding activity, participants write code that orders pizza for them.
 We'll be using a library to place an pizza order using a fictious API based on a [real Domino's API](https://github.com/gamagori/pizzapi).
 This playground activity was heavily inspired by [Jarvis Johnson on YouTube](https://youtu.be/Nxu6GlDleqA).
-Developed by Nicholas Bottone for FRC 5112 The Gongoliers in October 2018.
+This exercise was developed by Nicholas Bottone for FRC 5112 The Gongoliers in October 2018.
 
 ![Star Wars-themed poster that reads The Java Menace](https://raw.githubusercontent.com/NicholasBottone/Java-Menace-Introductory-Java-Lesson/master/cover.png "The Java Menace")
 
