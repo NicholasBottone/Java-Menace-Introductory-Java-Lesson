@@ -20,6 +20,9 @@ You're a programmer!  If you enjoyed what we just did, don't stop, keep practici
 ## Credits
 This exercise was developed by Nicholas Bottone for [FRC 5112 The Gongoliers](thegongoliers.com) in October 2018.  Anyone is welcome to use and adapt this tutorial for use in their lessons or classes.
 
+<a href="http://www.thegongoliers.com" target="_blank"><img src="https://raw.githubusercontent.com/NicholasBottone/Java-Menace-Introductory-Java-Lesson/master/logo.png" 
+alt="Jarvis Python Tutorial" width="320" height="180" border="1" /></a>
+
 The library used as a demo in this activity was based on [gamagori's pizzapi API](https://github.com/gamagori/pizzapi).  This API uses Python to order real pizza from Domino's.
 
 The layout for this tutorial, along with much of the humor used in the introduction, was heavily inspired by Jarvis Johnson on YouTube.  You can watch his video on using Python to order Domino's pizza below.
