@@ -9,15 +9,15 @@ public class PizzaSolutionCode {
 
         Customer greg = new Customer("Greg", "123 Sesame Street", "thegongoliers@fgschools.com");
 
-        Store nearestStore = StoreLocator.findClosestStoreToCustomer(greg);
+        Store gregStore = StoreLocator.findClosestStoreToCustomer(greg);
 
-        Order order = new Order(greg, nearestStore);
-        order.addItem("LARGE CHEESE PIZZA");
-        order.addItem("SMALL SODA");
+        Order gregOrder = new Order(greg, gregStore);
+        gregOrder.addItem("LARGE CHEESE PIZZA");
+        gregOrder.addItem("SMALL SODA");
 
-        CreditCard creditCard = new CreditCard("4539166576384037", "0520", "397");
+        CreditCard gregCard = new CreditCard("4539166576384037", "0520", "397");
 
-        nearestStore.placeOrder(order, creditCard);
+        gregStore.placeOrder(gregOrder, gregCard);
 
     }
 
