@@ -55,11 +55,13 @@ gregOrder.addItem("SMALL SODA");
 ````
 
 ## Step Four: How do we provide payment?
-Last but not least, we must provide a credit card number to the pizza place so they can process the payment.  We will be creating a new `CreditCard` object from the `CreditCard` class in a process very similar to how we created the `Customer` object.  Don't forget to assign the object to a variable.
+Last but not least, we must provide a credit card number to the pizza place so they can process the payment.  We will be creating a new `CreditCard` object from the `CreditCard` class in a process very similar to how we created the `Customer` object.  The three parameters this time are the 16-digit card number, the MM/YY expiration date, and the 3-digit CVV number.  Don't forget to assign the object to a variable.
 
 ````java
-CreditCard gregCard = new CreditCard("4539166576384037", "0520", "397");
+CreditCard gregCard = new CreditCard("4539166576384037", "05/20", "397");
 ````
+
+*Psst...* don't use a real credit card.  Just be sure the number you provide is 16 digits long.
 
 ## Submitting the order
 The order is complete, now we must submit it to the pizza place!  The `Store` object has a method called `placeOrder()`.  It takes two arguments: the order and the card.
