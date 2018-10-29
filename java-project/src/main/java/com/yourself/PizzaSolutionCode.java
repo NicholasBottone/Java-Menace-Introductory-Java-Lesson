@@ -9,7 +9,7 @@ public class PizzaSolutionCode {
 
     public static void orderPizza() throws PizzaException {
 
-        Customer greg = new Customer("Greg", "123 Sesame Street", "thegongoliers@fgschools.com");
+        Customer greg = new Customer("Greg", "123 Sesame Street", "thegongoliers@gmail.com");
 
         Store gregStore = StoreLocator.findClosestStoreToCustomer(greg);
 
