@@ -4,7 +4,7 @@ Our first step will be to tell the pizza place who the customer is.  When we tel
 To store this customer data in the computer, use something called a class.  A **class** gives us *a template that we can use to define objects*.  An **object** is *an instance of a class with defined variables*.  For us, those variables will include name and address.  Once we plug these values into the template, we’ve created an object.
 
 ````java
-new Customer("Greg", "123 Sesame Street", "thegongoliers@fgschools.com");
+new Customer("Greg", "123 Sesame Street", "thegongoliers@gmail.com");
 ````
 
 We want to hold onto this object for later, so we have to give it a nickname.  By giving it a name, we assign the specific customer object (and all the data stored within it) to a variable.
@@ -12,7 +12,7 @@ We want to hold onto this object for later, so we have to give it a nickname.  B
 You can name your variable anything you wish, as long as it doesn't have spaces.  It is common practice for the first letter of your variable name to begin with a lowercase letter, and for the first letter of every subsequent word to begin with a capital.  It is courteous for variable names to accurately but briefly descriptive the object they hold.  I will call my variable `greg`.  Another acceptable variable name is `customer`.
 
 ````java
-Customer greg = new Customer("Greg", "123 Sesame Street", "thegongoliers@fgschools.com");
+Customer greg = new Customer("Greg", "123 Sesame Street", "thegongoliers@gmail.com");
 ````
 
 ## Step Two: Where is the pizza place?
