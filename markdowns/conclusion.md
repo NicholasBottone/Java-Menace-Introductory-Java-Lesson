@@ -1,5 +1,7 @@
 ## Congratulations, you have done it!
 
+![BB8 Thumbs-up](https://raw.githubusercontent.com/NicholasBottone/Java-Menace-Introductory-Java-Lesson/master/thumbs-up.png "BB8 Thumbs-up")
+
 This may have seemed overly simplistic, but it really isn’t!  This is real programming!
 
 People like to view programming as this elite skill, but in reality, programming is really simple and easy to understand.  If given access to the right resources and help, anyone can learn how to code.
